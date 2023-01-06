@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserrat&size=24&vCenter=true&height=24&lines=Hello+Peter+%F0%9F%95%B7)](https://git.io/typing-svg)
-
 `#BeAmazing` `#BeYourself`
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserrat&size=24&vCenter=true&height=24&lines=Hello+Peter+%F0%9F%95%B7)](https://git.io/typing-svg)
 
 ## <img width="25px" height="30px" src="https://media.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" alt="spider-man" > I'm Saúl Villeda.
 
