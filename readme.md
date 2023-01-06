@@ -1,9 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserrat&size=24&vCenter=true&height=24&lines=Hello+Peter+%F0%9F%95%B7)](https://git.io/typing-svg)
 
+`#BeAmazing` `#BeYourself`
+
 ## <img width="25px" height="30px" src="https://media.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" alt="spider-man" > I'm Saúl Villeda.
 
-I'm a Web Developer, autodidact and proactive person, I love learning new technologies and things about web page designs and mobile interfaces <a href="https://codepen.io/BattlerHaru"><img src="https://skillicons.dev/icons?i=codepen" width="22" alt="See my CodePen"/></a>.
+I'm a Web Developer, autodidact and proactive person, I love learning new technologies and things about web page designs and mobile interfaces.
 I take great care in the user experience and code quality of the things I develop.
+
+### <a href="https://codepen.io/BattlerHaru"><img src="https://skillicons.dev/icons?i=codepen" width="18px" height="18px" alt="See my CodePen"/> See my CodePen</a>
 
 ### <a href="https://twitter.com/BattlerHaru"><img alt="Saúl Villeda | Twitter" width="16px" height="16px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" /> Contact me</a>
 
@@ -13,7 +17,7 @@ I take great care in the user experience and code quality of the things I develo
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![My Fronted Skills: HTML, CSS, Bootstrap, JavaScript,jQuery, TypeScript, Angular](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,typescript,angular&perline=4)](https://skillicons.dev) | [![My Backend Skills: NodeJS,PHP, Laravel, CodeIgniter ](https://skillicons.dev/icons?i=nodejs,php,laravel&perline=3)](https://skillicons.dev)<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" alt="code igniter" width="40px" height="40px" />               |
 | 📱Mobile                                                                                                                                                                                                       | 📃Databases                                                                                                                                                                                                                                                                                                                                                                                                               |
-| [![My Mobile Skills: Dart, Flutter, Android with JAVA ](https://skillicons.dev/icons?i=dart,flutter,java,androidstudio&perline=4)](https://skillicons.dev)                                                     | [![My Databases Skills: MySQL, Microsoft SQL Server, MongoDB](https://skillicons.dev/icons?i=mysql&perline=3)](https://skillicons.dev)<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="microsoft sql server" width="45px" height="45px" /> [![MongoDB](https://skillicons.dev/icons?i=mongodb&perline=4)](https://skillicons.dev) |
+| [![My Mobile Skills: Dart, Flutter, Android with JAVA ](https://skillicons.dev/icons?i=dart,flutter,java,androidstudio&perline=4)](https://skillicons.dev)                                                     | [![My Databases Skills: MySQL, Microsoft SQL Server, MongoDB](https://skillicons.dev/icons?i=mysql&perline=3)](https://skillicons.dev) [![Microsoft SQL Server](<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="microsoft sql server" width="45px" height="45px" />)] [![MongoDB](https://skillicons.dev/icons?i=mongodb&perline=4)](https://skillicons.dev) |
 
 ### 📖 Currently learning
 
