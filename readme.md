@@ -1,4 +1,4 @@
-##### <img width="25px" height="30px" src="https://media.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" alt="spider-man" > `#BeAmazing` `#BeYourself`
+##### <img width="24px" height="24px" src="https://media.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" alt="spider-man" > `#BeAmazing` `#BeYourself`
 
 # <picture><source srcset="./src/header-dark.gif" media="(prefers-color-scheme: dark)" /><source srcset="./src/header-light.gif" media="(prefers-color-scheme: light)" /><img src="./src/header-dark.gif" alt="Saúl Villeda, Web Developer header" width="100%"/></picture>
 
